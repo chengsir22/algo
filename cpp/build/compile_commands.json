@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/luhongcheng/Campus_Recruitment_Preparation/_source/algo/cpp/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/algo.dir/leetcode/0001_两数之和.cpp.o -c /Users/luhongcheng/Campus_Recruitment_Preparation/_source/algo/cpp/leetcode/0001_两数之和.cpp",
+  "file": "/Users/luhongcheng/Campus_Recruitment_Preparation/_source/algo/cpp/leetcode/0001_两数之和.cpp",
+  "output": "CMakeFiles/algo.dir/leetcode/0001_两数之和.cpp.o"
+}
+]
