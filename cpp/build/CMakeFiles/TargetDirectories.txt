@@ -1,3 +1,0 @@
-/Users/luhongcheng/Campus_Recruitment_Preparation/_source/algo/cpp/build/CMakeFiles/algo.dir
-/Users/luhongcheng/Campus_Recruitment_Preparation/_source/algo/cpp/build/CMakeFiles/edit_cache.dir
-/Users/luhongcheng/Campus_Recruitment_Preparation/_source/algo/cpp/build/CMakeFiles/rebuild_cache.dir

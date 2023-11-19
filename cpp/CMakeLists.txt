@@ -5,4 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 
 
-add_executable(0076 leetcode/0076_最小覆盖子串.cpp)
+add_executable(1111 other/扑克牌顺序问题.cpp)
